@@ -86,7 +86,7 @@
 	```
 
 
-![graph_demo.png](../resources/graph_demo.png)
+![graph_demo.png](./resources/graph_demo.png)
 
 - `paths_from(
     IN sources INTEGER[], 
